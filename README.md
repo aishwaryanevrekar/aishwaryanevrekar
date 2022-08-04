@@ -1,4 +1,5 @@
 ### Hi there 👋  I'm Aishwarya Nevrekar ✨
+ ![](https://komarev.com/ghpvc/?username=aishwaryanevrekar&color=green)  
 
 ### 👨🏻‍💻 &nbsp;About Me
 
