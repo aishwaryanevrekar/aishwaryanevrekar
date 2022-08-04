@@ -2,6 +2,10 @@
  ![](https://komarev.com/ghpvc/?username=aishwaryanevrekar&color=green)  
 
 ### 👨🏻‍💻 &nbsp;About Me
+- 🔭 I’m currently working on python 
+- 🌱 I’m currently learning machine learning
+- 👯 I’m looking to collaborate on data science and machine learning projects
+ 💬 Ask me about coding,content and commmunity ( 3 C's)
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -49,10 +53,8 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on python 
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on data science and machine learning projects
-- 🤔 I’m looking for help with ...
+
+-
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
