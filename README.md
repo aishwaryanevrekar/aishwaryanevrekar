@@ -26,6 +26,11 @@
 ![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
 ![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)\
 
+## 👯 Communities
+* Personality Development Mentor at Uplift Project- Girlscipt.
+* ICML Volunteer for 2020 Conference.
+* Worked as Global Ambassador for WTGC 2020.
+* Published Research Paper at Equniox 2020
 
 
 ###  &nbsp; GITHUB BADGES
