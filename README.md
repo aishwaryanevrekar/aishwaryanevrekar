@@ -1,13 +1,13 @@
 ### Hi there 👋  I'm Aishwarya Nevrekar ✨
  ![](https://komarev.com/ghpvc/?username=aishwaryanevrekar&color=green)  
 
-### 👨🏻‍💻 &nbsp;About Me
+## 👨🏻‍💻 &nbsp; About Me
 - 🔭 I’m currently working on python 
 - 🌱 I’m currently learning machine learning
 - 👯 I’m looking to collaborate on data science and machine learning projects
 - 💬 Ask me about coding,content and commmunity ( 3 C's)
 
-### 🛠 &nbsp;Tech Stack
+### 🛠 &nbsp; Tech Stack
 
 ![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
