@@ -57,9 +57,6 @@
 
 ***Thanks for visit my profile.***
 
-### ⚙️ &nbsp;GitHub Activity Graph
-
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=aishwaryanevrekar)  
 
 <!--
 **aishwaryanevrekar/aishwaryanevrekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
