@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Aishwarya%20Nevrekar&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Intern%20%7C%20Data%20Analytics%20%7C%203D%20%26%20AR/VR&descAlignY=55&descSize=16" alt="Aishwarya Nevrekar — AI, Data Analytics, 3D and AR/VR" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=180&amp;section=header&amp;text=Aishwarya%20Nevrekar&amp;fontSize=42&amp;fontColor=ffffff&amp;animation=fadeIn" alt="Aishwarya Nevrekar" />
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aishwarya_Nevrekar-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwaryanevrekar/)
-[![GitHub followers](https://img.shields.io/github/followers/aishwaryanevrekar?style=for-the-badge&logo=github&logoColor=white&label=Followers&color=181717)](https://github.com/aishwaryanevrekar)
-[![Profile views](https://komarev.com/ghpvc/?username=aishwaryanevrekar&color=6C63FF&style=for-the-badge)](https://github.com/aishwaryanevrekar)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Aishwarya_Nevrekar-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/aishwaryanevrekar/)
+[![GitHub followers](https://img.shields.io/github/followers/aishwaryanevrekar?style=for-the-badge&amp;logo=github&amp;logoColor=white&amp;label=Followers&amp;color=181717)](https://github.com/aishwaryanevrekar)
+[![Profile views](https://komarev.com/ghpvc/?username=aishwaryanevrekar&amp;color=6C63FF&amp;style=for-the-badge)](https://github.com/aishwaryanevrekar)
 
 **AI Intern at Fynd · PGP Student at Jio Institute · 32+ Months in Analytics**
 
@@ -44,36 +44,36 @@ I am an AI and analytics professional with **32+ months of experience** in analy
 
 ### Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=1e1e1e)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=1e1e1e)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=1e1e1e)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=1e1e1e)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&amp;logo=r&amp;logoColor=white)
 
-### Frameworks & Tools
+### Frameworks &amp; Tools
 
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=1e1e1e)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&amp;logo=django&amp;logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&amp;logo=flask&amp;logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&amp;logo=bootstrap&amp;logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&amp;logo=html5&amp;logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&amp;logo=css3&amp;logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&amp;logo=visualstudiocode&amp;logoColor=white)
+![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&amp;logo=microsoftexcel&amp;logoColor=white)
+![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&amp;logo=powerbi&amp;logoColor=1e1e1e)
 
 ## 📈 GitHub Stats
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishwaryanevrekar&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="Aishwarya's GitHub stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryanevrekar&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Aishwarya's top languages" />
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=aishwaryanevrekar&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;include_all_commits=true&amp;count_private=true" alt="Aishwarya's GitHub stats" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aishwaryanevrekar&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;langs_count=8" alt="Aishwarya's top languages" />
 
 </div>
 
-## 🌍 Community & Mentoring
+## 🌍 Community &amp; Mentoring
 
 - 🌱 Personality Development Mentor with the **GirlScript Uplift Project**
 - 🤝 Volunteer at the **2020 ICML Conference**
@@ -83,16 +83,16 @@ I am an AI and analytics professional with **32+ months of experience** in analy
 ## 💾 Featured Project
 
 <a href="https://github.com/aishwaryanevrekar/Machine-Learning-Interview-Questions">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aishwaryanevrekar&repo=Machine-Learning-Interview-Questions&theme=tokyonight&hide_border=true" alt="Machine-Learning-Interview-Questions repository" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=aishwaryanevrekar&amp;repo=Machine-Learning-Interview-Questions&amp;theme=tokyonight&amp;hide_border=true" alt="Machine-Learning-Interview-Questions" />
 </a>
 
 ## 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwaryanevrekar/)
-[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aishwaryanevrekar@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&amp;logo=linkedin&amp;logoColor=white)](https://www.linkedin.com/in/aishwaryanevrekar/)
+[![Email](https://img.shields.io/badge/Email-Let's_Talk-EA4335?style=for-the-badge&amp;logo=gmail&amp;logoColor=white)](mailto:aishwaryanevrekar@gmail.com)
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" alt="Footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&amp;color=gradient&amp;customColorList=6,11,20&amp;height=120&amp;section=footer" alt="Footer" />
 
 </div>
