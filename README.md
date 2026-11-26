@@ -1,72 +1,59 @@
-### Hi there 👋  I'm Aishwarya Nevrekar ✨
- ![](https://komarev.com/ghpvc/?username=aishwaryanevrekar&color=green)  
+<div align="center">
 
-## 👨🏻‍💻 &nbsp; About Me
-- 🔭 I’m currently working as Chapter Lead at Omdena Mumbai Chapter
-- 🌱 I’m currently learning  Excel and Power Bi
-- 👯 I’m looking to collaborate on data science and machine learning projects
-- 💬 Ask me about coding,content and commmunity ( 3 C's)
+# Hi, I'm Aishwarya Nevrekar 👋
 
-### 🛠 &nbsp; Tech Stack
+**Chapter Lead at Omdena Mumbai | Data science & machine learning enthusiast**
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
-![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
-![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
-![C++](https://img.shields.io/badge/-C++-05122A?style=flat&logo=C%2B%2B&logoColor=00599C)&nbsp;
-![R (Statistics)](https://img.shields.io/badge/-R-05122A?style=flat&logo=R&logoColor=276DC3)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)&nbsp;
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-05122A?style=flat&logo=bootstrap&logoColor=563D7C)
-![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![RStudio](https://img.shields.io/badge/-RStudio-05122A?style=flat&logo=rstudio)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-05122A?style=flat&logo=eclipse-ide&logoColor=2C2255)
+[![Profile views](https://komarev.com/ghpvc/?username=aishwaryanevrekar&color=6C63FF&style=flat-square)](https://github.com/aishwaryanevrekar)
 
-## 👯 Communities
-* Personality Development Mentor at Uplift Project- Girlscipt.
-* ICML Volunteer for 2020 Conference.
-* Worked as Global Ambassador for WTGC 2020.
-* Published Research Paper at Equniox 2020
+</div>
 
+## About me
 
-###  &nbsp; GITHUB BADGES
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'></a> <a href='https://github.com/pricing'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> <a href='https://docs.github.com/en/github/supporting-the-open-source-community-with-github-sponsors'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/sponsorbadge.gif' width='35' height='35'></a> 
+- 🔭 I lead the **Omdena Mumbai Chapter**.
+- 🌱 I’m currently learning **Excel and Power BI**.
+- 🤝 I’m interested in collaborating on **data science and machine learning** projects.
+- 💬 Ask me about coding, content, and community—the **3 Cs**.
 
+## Skills & tools
 
-### 🤝🏻 &nbsp;Connect with Me
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/aishwaryanevrekar/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/aishwaryanevrekar)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg' alt='twitter' height='40'>](https://twitter.com/nevrekaraishwa2)  
+**Languages**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=222)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=222)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
 
-### ⚙️ &nbsp;GitHub Analytics
+**Web & frameworks**  
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-222?style=flat-square&logo=flask&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 
-<p align="center">
-<a href="https://github.com/aishwaryanevrekar">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=aishwaryanevrekar&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=aishwaryanevrekar&layout=compact&langs_count=8&theme=algolia"/>
-</a>
-</p>
+**Tools**  
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white)
+![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=flat-square&logo=rstudio&logoColor=white)
+![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=eclipseide&logoColor=white)
 
-### Important Repository
+## Community
 
-💾 Machine-Learning-Interview-Questions - [🔗](https://github.com/aishwaryanevrekar/Machine-Learning-Interview-Questions)
+- Personality Development Mentor with the **GirlScript Uplift Project**.
+- Volunteer at the **2020 ICML Conference**.
+- **WTGC Global Ambassador** in 2020.
+- Published research at **Equinox 2020**.
+
+## Featured project
+
+💾 [**Machine-Learning-Interview-Questions**](https://github.com/aishwaryanevrekar/Machine-Learning-Interview-Questions) — a collection of machine learning interview questions.
+
+## Connect
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aishwaryanevrekar/)
 
 ---
 
-***Thanks for visit my profile.***
-
-
-<!--
-**aishwaryanevrekar/aishwaryanevrekar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
--
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">Thanks for stopping by! ✨</div>
